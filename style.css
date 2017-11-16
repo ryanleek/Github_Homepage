@@ -8,4 +8,9 @@ div.col-lg-6{
 #footList li{
   list-style: none;
   float: left;
+  width: 6%;
+}
+footer.bd-footer{
+
+  background-color: darkgray;
 }
