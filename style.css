@@ -5,6 +5,9 @@ div.col-lg-6{
   padding-left: 6px;
   padding-right: 6px;
 }
+div.col-lg-4{
+  margin:  0 auto;
+}
 #footList{
   padding: 0px;
 }
