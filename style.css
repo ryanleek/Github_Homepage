@@ -33,7 +33,9 @@ div.col-lg-6{
 footer a{
   color: black;
 }
-footer.bd-footer{
+footer.bd-footer {
   background-color: darkgray;
-  padding-bottom: 16px;
+}
+div.container-fluid{
+  padding: 18px;
 }
