@@ -13,6 +13,9 @@ div.col-lg-6{
   float: left;
   width: auto;
 }
+#footName{
+  margin: 0px;
+}
 footer a{
   color: black;
 }
