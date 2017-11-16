@@ -8,8 +8,11 @@ div.col-lg-6{
 #midRow{
   margin: auto;
 }
-#midRow{
-  
+#midRow a.btn{
+  margin: auto;
+}
+img.rounded-circle{
+  margin: auto;
 }
 #footList{
   padding: 0px;
