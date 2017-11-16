@@ -5,3 +5,7 @@ div.col-lg-6{
   padding-left: 6px;
   padding-right: 6px;
 }
+ul.bd-footerlinks li{
+  list-style: none;
+  float: left;
+}
