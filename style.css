@@ -5,6 +5,9 @@ div.col-lg-6{
   padding-left: 6px;
   padding-right: 6px;
 }
+#title{
+  margin: auto;
+}
 #midRow{
   margin: auto;
 }
@@ -29,4 +32,5 @@ footer a{
 }
 footer.bd-footer{
   background-color: darkgray;
+  height: auto;
 }
