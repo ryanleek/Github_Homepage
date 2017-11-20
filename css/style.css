@@ -224,13 +224,12 @@ Main components
   border-radius: 0.25em;
   padding: 1em;
   box-shadow: 0 3px 0 #d7e4ed;
+  background-color: #eaeaea;
 }
 .cd-timeline-content:after {
   content: "";
   display: table;
   clear: both;
-
-  background-color: #eaeaea;
 }
 .cd-timeline-content h2 {
   color: #303e49;
