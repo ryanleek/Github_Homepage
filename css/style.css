@@ -43,8 +43,6 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
-
-  background-color: #e0e0e0;
 }
 .cd-container::after {
   /* clearfix */
@@ -231,6 +229,8 @@ Main components
   content: "";
   display: table;
   clear: both;
+
+  background-color: #eaeaea;
 }
 .cd-timeline-content h2 {
   color: #303e49;
