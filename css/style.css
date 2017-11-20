@@ -16,7 +16,6 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Droid Serif", serif;
   color: #7f8c97;
   background-color: #e9f0f5;
 }
@@ -24,7 +23,6 @@ body {
 a {
   color: #acb7c0;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
 }
 
 img {
@@ -32,7 +30,6 @@ img {
 }
 
 h1, h2 {
-  font-family: "Open Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -46,6 +43,8 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
+
+  background-color: #e0e0e0;
 }
 .cd-container::after {
   /* clearfix */
