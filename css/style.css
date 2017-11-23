@@ -71,7 +71,7 @@ Main components
   left: 18px;
   height: 100%;
   width: 4px;
-  background: #d7e4ed;
+  background: #f4f4f4;
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
@@ -315,7 +315,7 @@ Main components
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: #f4f4f4;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;
