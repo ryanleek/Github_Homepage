@@ -294,7 +294,7 @@ Main components
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: #f4f4f4;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
