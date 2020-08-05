@@ -1,2 +1,2 @@
-# ryanleek.github.com
+# ryanleek.github.io
 github pages
